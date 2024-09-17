@@ -1,0 +1,15 @@
+.navbar-container {
+    width: 300px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    background-color: beige;
+    margin: 20px;
+}
+
+.active-link{
+    border: 1px solid red;
+}
